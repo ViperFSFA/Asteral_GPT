@@ -1,4 +1,4 @@
-# Deepseek AI Jalibreaking
+# Deepseek AI Jailbreaking
 
 # Астерал ГПТ
 
